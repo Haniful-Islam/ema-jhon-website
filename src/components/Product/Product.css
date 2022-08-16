@@ -42,11 +42,11 @@
     font-weight: 400;
     font-size: 15px;
     line-height: 18px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
+.btn-cart:hover{
+    background-color: orange;;
+}
 .btn-text{
     margin-right: 5px;
 }
