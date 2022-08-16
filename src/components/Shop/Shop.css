@@ -5,21 +5,20 @@
     
 }
 .products-container{
-    width: 1024px;
-    /* margin: 0 auto; */
+    width: 1035px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     justify-content: center;
-    padding-left: 104px;
+    padding-left: 50px;
     gap:45px;
-  
-    margin-top: 200px
+    margin-top: 100px;
 
 }
-
 
 .cart-container{
     width: 264px;
     height: 944px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
+    padding: 0 10px;
+    background: rgba(255, 153, 0, 0.3);
 }
