@@ -46,3 +46,11 @@
     align-items: center;
     justify-content: center;
 }
+
+.btn-text{
+    margin-right: 5px;
+}
+.shopping-icon{
+    font-size: 15px;
+    color:rgba(88, 80, 80, 0.963)
+}
