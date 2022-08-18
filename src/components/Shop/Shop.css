@@ -5,7 +5,7 @@
     
 }
 .products-container{
-    width: 1035px;
+    /* width: 1035px; */
     display: grid;
     grid-template-columns: repeat(3,1fr);
     justify-content: center;
@@ -17,7 +17,7 @@
 
 .cart-container{
     width: 264px;
-    height: 944px;
+    /* height: 944px; */
     /* border: 2px solid red; */
     padding: 0 10px;
     background: rgba(255, 153, 0, 0.3);

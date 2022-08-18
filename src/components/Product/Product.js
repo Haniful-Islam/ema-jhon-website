@@ -7,7 +7,7 @@ const Product = (props) => {
     // console.log(props)
     const {handleAddtoCart} = props;
   const { img, name, ratings, price, seller } = props.product;
-  // console.log(props)
+
   return (
     <div className="product">
       <img src={img} alt="" />
